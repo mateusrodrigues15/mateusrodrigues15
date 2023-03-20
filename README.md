@@ -27,8 +27,14 @@ Eu me chamo Mateus e sou um programador Front End Junior, estou criando varios p
 <li><a href = "https://www.linkedin.com/in/mateus-rodrigues-4b1a84265/" target = "_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width = 70px></a></li>
 </ol>
 <br>
+<br>
 
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mateusrodrigues15_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mateusrodrigues15&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusrodrigues15)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
