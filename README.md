@@ -23,7 +23,7 @@ Eu me chamo Mateus e sou um programador Front End Junior, estou criando varios p
 :email: Meu contato...
 
 <ol>
-<li><a href = "mailto : mateusrodriguesalves.mateus96@gmail.com" target="_blank"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width = 60px></a></li>
+<li><a href = "mailto:mateusrodriguesalves.mateus96@gmail.com" target="_blank"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width = 60px></a></li>
 <li><a href = "https://www.linkedin.com/in/mateus-rodrigues-4b1a84265/" target = "_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width = 70px></a></li>
 </ol>
 
