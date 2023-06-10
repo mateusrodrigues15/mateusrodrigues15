@@ -9,13 +9,13 @@ Eu me chamo Mateus e sou um programador Front End Junior, estou criando varios p
 <ul>
 <li> <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html-logo" width = 65px></li>
 <li> <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css-logo" width = 65px></li>
+<li> <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt = "JavaScript-logo" height = 20px></li>
 </ul>
 <br>
 
 :hourglass_flowing_sand: Começando a aprender...
 
 <ul>
-<li> <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt = "JavaScript-logo" height = 20px></li>
 <li> <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt = "React-logo" height = 20px></li>
 </ul>
 <br>
