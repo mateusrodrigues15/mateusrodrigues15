@@ -88,6 +88,14 @@ Gosto de aprender novas tecnologias, enfrentar desafios e transformar ideias em 
 
 ---
 
+## 🐍 Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mateusrodrigues15/mateusrodrigues15/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
 ## 🌐 Conecte-se comigo
 
 <p align="center">
