@@ -1,40 +1,70 @@
-!Hello Everyone! :alien:
+# 👋 Olá, eu sou Mateus Rodrigues
 
-Eu me chamo Mateus e sou um programador Front End Junior, estou criando varios projetos e aprendendo cada vez mais a usar as tecnologias. Busco sempre me aprimorar e  estar atualizado para estar apto ao mercado de trabalho. Atualmente estou estudando e evoluindo para me tornar um programador Full Stack, pois estou totalmente encantado pela programação e pelas possibilidades que a mesma pode me proporcionar. Amo desafios e estou animado para resolver cada um deles com muito esforço e dedicação :green_heart:.
-<br>
-<br>
+💻 Desenvolvedor Full Stack em formação, apaixonado por tecnologia, programação e resolução de problemas.
 
-:unlock: Estou criando Projetos atualmente com... 
+Atualmente estou concluindo minha graduação em Análise e Desenvolvimento de Sistemas e construindo projetos que envolvem desenvolvimento web completo, desde interfaces modernas até APIs, bancos de dados e autenticação.
 
-<ul>
-<li> <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html-logo" width = 65px></li>
-<li> <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css-logo" width = 65px></li>
-<li> <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt = "JavaScript-logo" height = 20px></li>
-</ul>
-<br>
+Gosto de aprender novas tecnologias, enfrentar desafios e transformar ideias em soluções reais. Meu objetivo é evoluir continuamente como desenvolvedor e contribuir para projetos que gerem impacto positivo.
 
-:hourglass_flowing_sand: Começando a aprender...
+---
 
-<ul>
-<li> <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt = "React-logo" height = 20px></li>
-</ul>
-<br>
+## 🚀 Tecnologias
 
-:email: Meu contato...
+### Front-end
 
-<ol>
-<li><a href = "mailto:mateusrodriguesalves.mateus96@gmail.com" target="_blank"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width = 60px></a></li>
-<li><a href = "https://www.linkedin.com/in/mateus-rodrigues-alves-15-/" target = "_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width = 70px></a></li>
-</ol>
-<br>
-<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge\&logo=styled-components\&logoColor=white)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mateusrodrigues15&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-<br>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusrodrigues15)](https://github.com/anuraghazra/github-readme-stats)
+### Back-end
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
 
+### Banco de Dados
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
+### Ferramentas
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
+---
+
+## 📚 Atualmente estudando
+
+* Arquitetura Full Stack
+* Node.js e Express
+* PostgreSQL e modelagem de banco de dados
+* Autenticação JWT
+* APIs REST
+* Boas práticas de desenvolvimento
+* AWS
+
+---
+
+## 📫 Contato
+
+📧 Email: [mateusrodriguesalves.mateus96@gmail.com](mailto:mateusrodriguesalves.mateus96@gmail.com)
+
+💼 LinkedIn:
+https://www.linkedin.com/in/mateus-rodrigues-alves-15-/
+
+---
+
+## 📊 Estatísticas GitHub
+
+![Mateus GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateusrodrigues15\&show_icons=true\&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusrodrigues15\&layout=compact\&theme=dark)
+
+---
+
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade como Desenvolvedor Full Stack Júnior, aplicando conhecimentos em React, Node.js e bancos de dados para criar aplicações escaláveis, performáticas e que resolvam problemas reais.
